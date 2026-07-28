@@ -38,9 +38,9 @@ criaCartao(
     ' Qual é a fórmula química da água?',
     'H₂O'
 criaCartao(
-   ''
-    ''
-    ''
+   'Química'
+    'Como são chamadas as ligações químicas onde ocorre o compartilhamento de elétrons?'
+    'Ligações covalentes.'
 criaCartao(
    ''
     ''
